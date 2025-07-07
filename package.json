@@ -1,0 +1,15 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@inutil-labs/node-red-whin-whatsapp": "~0.1.0",
+        "node-red-contrib-dashbored": "~1.1.4",
+        "node-red-contrib-oled": "~1.0.5",
+        "node-red-contrib-opcua": "~0.2.339",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-contrib-ui-media": "~1.2.0",
+        "node-red-node-email": "~2.0.1"
+    }
+}
